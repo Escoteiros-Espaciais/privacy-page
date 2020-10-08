@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Política de Privacidade
 
-You can use the [editor on GitHub](https://github.com/Escoteiros-Espaciais/privacy-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mateus Nobre, Kellyane Nogueira, Patricia Sampaio e Paulo Uchôa construíram o aplicativo EscoteiroEspacial como um aplicativo gratuito. Este SERVIÇO é prestado por Mateus Nobre, Kellyane Nogueira, Patricia Sampaio e Paulo Uchôa sem custos e destina-se a utilização tal como está. Esta página é usada para informar os visitantes sobre minhas políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar meu Serviço. Se você optar por usar meu Serviço, você concorda com a coleta e uso de informações em relação a esta política. As informações pessoais que recolho são usadas para fornecer e melhorar o serviço. Não vou usar ou compartilhar suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade. Os termos usados nesta Política de Privacidade têm o mesmo significado que em nossos Termos e Condições, que podem ser acessados em EscoteiroEspacial, a menos que definido de outra forma nesta Política de Privacidade.
+Coleta e uso de informações
+Esse Serviço não solicita que você nos forneça informações de identificação pessoal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Dados de registro
 
-### Markdown
+Queremos informar que sempre que você utiliza o meu Serviço, em caso de erro no aplicativo, eu coleto dados e informações (através de produtos de terceiros) no seu telefone chamado Log Data. Estes dados de registro podem incluir informações como endereço de protocolo de Internet ("IP") do dispositivo, nome do dispositivo, versão do sistema operacional, hora e data de uso do serviço e outras estatísticas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Cookies
 
-```markdown
-Syntax highlighted code block
+Este Serviço não usa cookies, não tendo a necessidade de nenhuma configuração quanto a esse item.
 
-# Header 1
-## Header 2
-### Header 3
+## Provedores de serviço
 
-- Bulleted
-- List
+Podemos empregar empresas terceirizadas e indivíduos pelos seguintes motivos: - Para facilitar o nosso serviço; - Para fornecer o Serviço em nosso nome; - Executar serviços relacionados com o serviço.
 
-1. Numbered
-2. List
+## Segurança
 
-**Bold** and _Italic_ and `Code` text
+Valorizamos sua confiança em nos fornecer suas informações pessoais, portanto, estamos nos empenhando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.
 
-[Link](url) and ![Image](src)
-```
+## Links para outros sites
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Este serviço não contém links para outros sites.
 
-### Jekyll Themes
+## Privacidade das crianças
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Escoteiros-Espaciais/privacy-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Não recolhemos informações de identificação pessoal. As únicas informações recolhidas são referentes ao quiz e essas informações são locais, apagadas após o fim da utilização do app.
 
-### Support or Contact
+## Mudanças nesta Política de Privacidade
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, recomendamos que você revise esta página periodicamente para verificar quaisquer alterações. Irei notificá-lo de quaisquer alterações, postando a nova Política de Privacidade nesta página. Esta política entra em vigor em 2020-10-08
+
+## Contate-Nos
+
+Se você tiver alguma dúvida ou sugestão sobre a nossa Política de Privacidade, não hesite em nós contatar em escoteiroespacial.ios@gmail.com.
+ 
+
